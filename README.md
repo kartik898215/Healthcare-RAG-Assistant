@@ -22,7 +22,7 @@ in real time.
 ## 📁 Project Structure
 Healthcare-RAG-Assistant/
 ├── main.py
-├── routes/chat.py
+  ├── routes/chat.py
 ├── frontend/
 │ ├── index.html
 │ ├── app.js
