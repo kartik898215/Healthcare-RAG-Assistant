@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Vector DB / embeddings
+vectorstore/
+
+# Logs / DBs
+*.log
+*.db
